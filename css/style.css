@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+h1 {
+  font-family:"Open Sans";
+  text-align:center;
+  font-size:50px;
+  color:white;
+}
+body {
+  background-color:black;
+}
+#canvas {margin-left:auto; margin-right:auto; display:block;}
+
